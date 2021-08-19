@@ -11,12 +11,13 @@
 </head>
 <body>
   <div id="app">
+    
     <div class="bg-gen">
       <section class="generator">
+        <button @click="pegarAtt" class="logo"><img src="img/favicon.svg" alt=""><h1>Something!</h1></button>
         <h2 v-show="showThis">The something you need!</h2>
         <h2>{{atividades.activity}}</h2>
         <h3 v-show="clicado">Number of participants: {{atividades.participants}}</h3>
-        <button @click="pegarAtt">Do Something!</button>
       </section>
     </div>
 
