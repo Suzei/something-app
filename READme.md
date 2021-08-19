@@ -1,5 +1,7 @@
 # Something
 
+<img src="https://user-images.githubusercontent.com/55220803/130004284-cdb7e8e8-fcf3-4dbf-aab2-5bde849f865c.png"></img>
+
 Something é um estudo que contém Vue.js e integração a Bored API.
 A ideia de Something é te sugerir algo a fazer, quando você está no ócio.
 
